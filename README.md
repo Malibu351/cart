@@ -36,10 +36,11 @@ License plate recognition
     <br>代码部分
 <br>\`\`\`
 <br>是键盘上Tab键上方那个键
+<br>在首行的\`后面加语言名称，可以让代码带颜色，美观一点
 
 <br>比如
 <br>
-```
+```python
 if __name__ == '__main__':
     print_hi('PyCharm')
 ```

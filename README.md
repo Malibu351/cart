@@ -94,7 +94,7 @@ Thank `You` . Please `Call` Me `Coder`
 # Sigflow: Streamline Analysis Workflows for Mutational Signatures 的readme #
 标签图片是来自于一个https://shields.io 网站，在其中label和message中填写信息，选择颜色，最后点击Make Badge即可得到图片地址<br>比如：
 
-<img alt="图片加载失败时，显示这段字,A test标签" scr="https://img.shields.io/badge/A-test-orange">
+<img alt="图片加载失败时，显示这段字,A test标签" scr="https://img.shields.io/badge/Recognition-test-green">
 
 >目录的编辑语言
 <a href="https://sm.ms/image/fXbqHgdtZw7r9Az" target="_blank"><img src="https://i.loli.net/2020/10/31/fXbqHgdtZw7r9Az.png" ></a>

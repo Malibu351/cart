@@ -117,10 +117,11 @@ $ chmod a+x gh-md-toc
 
 ./gh-md-toc /Users/mac/Desktop/README.
 
-
 Linux和os系统方便一点，Windows可以参考[这个网址](https://www.jianshu.com/p/302abe331dcb)
 
-able of Contents
+>`以下`是直接复制粘贴后的结果
+
+Table of Contents
 =================
 
    * [cart](#cart)
@@ -143,7 +144,9 @@ able of Contents
       * [目录](#目录)
    * [遇到的一个问题](#遇到的一个问题)
 
->>`以上`是直接复制粘贴的结果，`以下`是在前后添加\<details>和\</details>的结果
+
+>`以下`是在前后加入<details>和</details>，删除"=="的结果
+
 <details>
 Table of Contents
 
@@ -168,7 +171,6 @@ Table of Contents
    * [遇到的一个问题](#遇到的一个问题)
 
 </details>
-
 
 # 遇到的一个问题
 有时图片无法加载，查到是DNS 污染，需要在host文件中添加一个ip地址，具体可以看这个

@@ -92,7 +92,7 @@ Thank `You` . Please `Call` Me `Coder`
 
 
 # Sigflow: Streamline Analysis Workflows for Mutational Signatures 的readme #
-##标签
+## 标签
 标签图片是来自于一个https://shields.io 网站，在其中label和message中填写信息，选择颜色，最后点击Make Badge即可得到图片地址<br>比如：
 
 ![](https://img.shields.io/badge/Recognition-test-green)
@@ -101,7 +101,9 @@ Thank `You` . Please `Call` Me `Coder`
 >目录的编辑语言
 <a href="https://sm.ms/image/fXbqHgdtZw7r9Az" target="_blank"><img src="https://i.loli.net/2020/10/31/fXbqHgdtZw7r9Az.png" ></a>
 
-可以[自动生成](https://github.com/ekalinin/github-markdown-toc)
+可以[自动生成](https://github.com/ekalinin/github-markdown-toc)，[教程](https://blog.csdn.net/qq_20009015/article/details/84728963)
+
+安装好目录文件和readme文件，一键生成目录后再复制粘贴进readme中
 
 Linux和os系统方便一点，Windows可以参考[这个网址](https://www.jianshu.com/p/302abe331dcb)
 

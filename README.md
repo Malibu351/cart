@@ -73,5 +73,13 @@ Thank `You` . Please `Call` Me `Coder`
 
 图片超链接：![这个括号里写的在图片加载时显示](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1604120293210&di=d5de2e2bd3e3891eac387718733e7152&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201704%2F29%2F20170429011256_f8CUr.jpeg)
 
-直接放一个图片的链接也可以直接显示
-<a href="https://sm.ms/image/jsLlYpewaviNuOo" target="_blank"><img src="https://i.loli.net/2020/10/31/jsLlYpewaviNuOo.png" ></a>
+直接放一个图片的超链接也可以直接显示（不是网址）
+<a href="https://sm.ms/image/kGWSI7wPOBzUjdx" target="_blank"><img src="https://i.loli.net/2020/10/31/kGWSI7wPOBzUjdx.png" ></a>
+
+# 表 #
+|列名1|列名2|
+|:---|:---|
+|列1的内容1|列2的内容1|
+|列1的内容2|列2的内容2|
+
+<a href="https://sm.ms/image/kGWSI7wPOBzUjdx" target="_blank"><img src="https://i.loli.net/2020/10/31/kGWSI7wPOBzUjdx.png" ></a>

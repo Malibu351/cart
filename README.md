@@ -145,10 +145,11 @@ Table of Contents
    * [遇到的一个问题](#遇到的一个问题)
 
 
->`以下`是在前后加入<details>和</details>，删除"=="的结果
+>`以下`是在前后加入\<details>和\</details>，\<summary>和\</summary>删除"=="的结果
+deatils会让内容变成下拉展开，不加summary的话，tag是“详细信息，加了summary，tag为summary中间的部分
 
 <details>
-Table of Contents
+<summary>Table of Contents</summary>
 
    * [cart](#cart)
    * [标题表示](#标题表示)

@@ -84,5 +84,7 @@ Thank `You` . Please `Call` Me `Coder`
 
 <a href="https://sm.ms/image/wePquzSfakbYBcv" target="_blank"><img src="https://i.loli.net/2020/10/31/wePquzSfakbYBcv.png" ></a>
 
+可以调整图片的大小，居中
 <div align=center><img width="150" height="150" src="https://github.com/HeTingwei/ReadmeLearn/blob/master/avatar1.jpg"/></div>
 
+<img src="https://github.com/HeTingwei/ReadmeLearn/blob/master/avatar1.jpg" width="150" height="150" alt="图片加载失败时，显示这段字"/>

@@ -1,6 +1,30 @@
 # cart
 License plate recognition
 
+Table of Contents
+=================
+
+   * [cart](#cart)
+   * [标题表示](#标题表示)
+   * [One](#one)
+      * [Two](#two)
+         * [Three](#three)
+            * [Four](#four)
+               * [Five](#five)
+                  * [Six](#six)
+   * [换行](#换行)
+   * [强调](#强调)
+   * [代码](#代码)
+   * [圆点符](#圆点符)
+   * [文字部分的高亮](#文字部分的高亮)
+   * [链接](#链接)
+   * [表](#表)
+   * [Sigflow: Streamline Analysis Workflows for Mutational Signatures 的readme](#sigflow-streamline-analysis-workflows-for-mutational-signatures-的readme)
+      * [标签](#标签)
+      * [目录](#目录)
+   * [遇到的一个问题](#遇到的一个问题)
+
+
 # 标题表示 #
 用井号#来标识，井号与标题之间需要加括号,共有6个等级
 # One #
@@ -104,6 +128,20 @@ Thank `You` . Please `Call` Me `Coder`
 可以[自动生成](https://github.com/ekalinin/github-markdown-toc)，[教程](https://blog.csdn.net/qq_20009015/article/details/84728963)
 
 安装好目录文件和readme文件，一键生成目录后再复制粘贴进readme中
+
+mac:
+
+$ curl https://raw.githubusercontent.com/ekalinin/github-markdown-toc/master/gh-md-toc -o gh-md-toc
+
+$ chmod a+x gh-md-toc
+ 
+用法./gh-md-toc 文件名.md
+ 
+比如说直接 
+
+./gh-md-toc /Users/mac/Desktop/README.
+
+
 
 Linux和os系统方便一点，Windows可以参考[这个网址](https://www.jianshu.com/p/302abe331dcb)
 

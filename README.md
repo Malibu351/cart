@@ -67,9 +67,9 @@ Thank `You` . Please `Call` Me `Coder`
 >>>>地球 
 
 # 链接 #
-给需要加超链接的词条，用\[\]框住，后方在\(\)中加入链接
+给需要加超链接的词条，用\[\]框住，后方在\(\)中加入链接，图片则需要在第一个\[前加一个！号
 
 文字超链接:[百度](https://www.baidu.com)
 
-图片超链接：![百度中的一张图片](https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=tom%20and%20jerry&step_word=&hs=2&pn=85&spn=0&di=10010&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=2&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=3622322399%2C3145554630&os=68836861%2C77748295&simid=0%2C0&adpicid=0&lpn=0&ln=1732&fr=&fmq=1604110200628_R&fm=result&ic=&s=undefined&hd=&latest=&copyright=&se=&sme=&tab=0&width=&height=&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201704%2F29%2F20170429011256_f8CUr.jpeg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3B17tpwg2_z%26e3Bv54AzdH3Fks52AzdH3F%3Ft1%3D09clc9cdn&gsm=5a&rpstart=0&rpnum=0&islist=&querylist=&force=undefined)
+图片超链接：![百度中的一张图片](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1604120293210&di=d5de2e2bd3e3891eac387718733e7152&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201704%2F29%2F20170429011256_f8CUr.jpeg)
 

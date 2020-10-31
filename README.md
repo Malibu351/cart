@@ -82,4 +82,7 @@ Thank `You` . Please `Call` Me `Coder`
 |列1的内容1|列2的内容1|
 |列1的内容2|列2的内容2|
 
-<a href="https://sm.ms/image/kGWSI7wPOBzUjdx" target="_blank"><img src="https://i.loli.net/2020/10/31/kGWSI7wPOBzUjdx.png" ></a>
+<a href="https://sm.ms/image/wePquzSfakbYBcv" target="_blank"><img src="https://i.loli.net/2020/10/31/wePquzSfakbYBcv.png" ></a>
+
+<div align=center><img width="150" height="150" src="https://github.com/HeTingwei/ReadmeLearn/blob/master/avatar1.jpg"/></div>
+

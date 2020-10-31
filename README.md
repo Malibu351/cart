@@ -88,3 +88,10 @@ Thank `You` . Please `Call` Me `Coder`
 <div align=center><img width="150" height="150" src="https://github.com/HeTingwei/ReadmeLearn/blob/master/avatar1.jpg"/></div>
 
 <img src="https://github.com/HeTingwei/ReadmeLearn/blob/master/avatar1.jpg" width="150" height="150" alt="图片加载失败时，显示这段字"/>
+
+
+# Sigflow: Streamline Analysis Workflows for Mutational Signatures 的readme #
+标签图片是来自于一个https://shields.io 网站，在其中label和message中填写信息，选择颜色，最后点击Make Badge即可得到图片地址<br>比如：
+
+<img alt="当鼠标悬停时显示内容" scr="https://img.shields.io/badge/A-test-orange">
+

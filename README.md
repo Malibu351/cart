@@ -103,4 +103,5 @@ Thank `You` . Please `Call` Me `Coder`
 Linux和os系统方便一点，Windows可以参考[这个网址](https://www.jianshu.com/p/302abe331dcb)
 
 
-
+# 遇到的一个问题
+有时图片无法加载，查到是DNS 污染，需要在host文件中添加一个ip地址，具体可以看这个https://blog.csdn.net/qq_41709370/article/details/106282229

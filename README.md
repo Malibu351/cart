@@ -117,6 +117,8 @@ $ chmod a+x gh-md-toc
 
 ./gh-md-toc /Users/mac/Desktop/README.
 
+<a href="https://sm.ms/image/YmLt79syFgclEq6" target="_blank"><img src="https://i.loli.net/2020/10/31/YmLt79syFgclEq6.png" ></a>
+
 Linux和os系统方便一点，Windows可以参考[这个网址](https://www.jianshu.com/p/302abe331dcb)
 
 >`以下`是直接复制粘贴后的结果
@@ -146,7 +148,10 @@ Table of Contents
 
 
 >`以下`是在前后加入\<details>和\</details>，\<summary>和\</summary>删除"=="的结果
+
 deatils会让内容变成下拉展开，不加summary的话，tag是“详细信息，加了summary，tag为summary中间的部分
+
+<a href="https://sm.ms/image/pMFto3ROdkc2NaW" target="_blank"><img src="https://i.loli.net/2020/10/31/pMFto3ROdkc2NaW.png" ></a>
 
 <details>
 <summary>Table of Contents</summary>
